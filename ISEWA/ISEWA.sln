@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ISEWA", "ISEWA.csproj", "{21BBA8FE-56A8-493A-97FD-33F4B3DBE1A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess", "..\DataAccess\DataAccess.csproj", "{1078B7D1-5183-40F1-A514-278054763F81}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{3C2E6A3C-BBB1-459F-AF16-846685C293C4}"
+	ProjectSection(SolutionItems) = preProject
+		ECRegisterValidation.js = ECRegisterValidation.js
+		SchoolUserValidation.js = SchoolUserValidation.js
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21BBA8FE-56A8-493A-97FD-33F4B3DBE1A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21BBA8FE-56A8-493A-97FD-33F4B3DBE1A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21BBA8FE-56A8-493A-97FD-33F4B3DBE1A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21BBA8FE-56A8-493A-97FD-33F4B3DBE1A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1078B7D1-5183-40F1-A514-278054763F81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1078B7D1-5183-40F1-A514-278054763F81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1078B7D1-5183-40F1-A514-278054763F81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1078B7D1-5183-40F1-A514-278054763F81}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EF3510B8-04A7-4C10-8A45-E1EB0962F20A}
+	EndGlobalSection
+EndGlobal
